@@ -1,5 +1,5 @@
 # Data Science Jobs
-Analysis of Data Science Jobs using Glassdoor job posting data from the [Data Scientist jobs Kaggle dataset](https://www.kaggle.com/andrewmvd/data-scientist-jobs). This project is part of the Data Science Nanodegree course from Udacity.
+Analysis of Data Science Jobs using Glassdoor job posting data from the [Data Scientist jobs Kaggle dataset](https://www.kaggle.com/andrewmvd/data-scientist-jobs). This project is part of the Data Science Nanodegree from Udacity.
 
 ### Project Motivation
 The motivation for this project is to find a dataset, come up with business questions, and use the dataset to answer these questions following the 
@@ -14,7 +14,7 @@ The questions I investigated in this analysis were the following:
 4. Is there a relationship between Glassdoor rating and salary?
 
 ### Results
-Here is a summary of the results for the 4 questions in this analysis:  
+Here is a summary of the results for the four questions in this analysis:  
 
 **1. Where are the data science jobs (by city and company)?** 
 
