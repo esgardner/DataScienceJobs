@@ -18,7 +18,7 @@ Here is a summary of the results for the four questions in this analysis:
 
 **1. Where are the data science jobs (by city and company)?** 
 
-The top 5 cities in the US for data science jobs were: Austin, Chicago, San Diego, New York, and Houston. The tope 5 companies in terms of most data science job postings were Apple, IBM, Amazon, Staffigo Technical Services LLC, and Facebook. 
+The top five cities in the US for data science jobs were: Austin, Chicago, San Diego, New York, and Houston. The top five companies in terms of most data science job postings were Apple, IBM, Amazon, Staffigo Technical Services LLC, and Facebook. 
 
 **2. Which cities have the highest salary for data scientists?** 
 
@@ -26,7 +26,7 @@ The cities with the highest salaries were all located in California, with the ma
 
 **3. Which sectors offer the most job opportunities for data scientists?** 
 
-The top 5 sectors were: IT, Business Services, Biotech, Finance, and Healthcare.
+The top five sectors were: IT, Business Services, Biotech, Finance, and Healthcare.
 
 **4. Is there a relationship between Glassdoor rating and salary?** 
 
