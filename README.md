@@ -5,7 +5,7 @@ Analysis of Data Science Jobs using Glassdoor job posting data from the [Data Sc
 The motivation for this project is to find a dataset, come up with business questions, and use the dataset to answer these questions following the 
 CRISP-DM methodology. 
 
-For my project I selected a Kaggle dataset with job postings for Data Science from Glassdoor. The datset consists of 3900 data science job posts scraped from Glassdoor in July 2020. 
+For my project I selected a Kaggle dataset with job postings for Data Science from Glassdoor. The dataset consists of 3900 data science job posts scraped from Glassdoor in July 2020. 
 
 The questions I investigated in this analysis were the following:
 1. Where are the data science jobs (by city and company)?
