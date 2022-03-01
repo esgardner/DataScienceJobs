@@ -1,5 +1,5 @@
 # Data Science Jobs
-Analysis of Data Science Jobs using Glassdoor job posting data from the [Data Scientist jobs Kaggle dataset](https://www.kaggle.com/andrewmvd/data-scientist-jobs). This project is part of the Data Science Nanodegree from Udacity.
+Analysis of Data Science Jobs using Glassdoor job posting data from the [Data Scientist jobs Kaggle dataset](https://www.kaggle.com/andrewmvd/data-scientist-jobs). This project is part of the Data Science Nanodegree from Udacity. Accompanying Medium blog post can be found [here](https://medium.com/@esgardner21/data-science-jobs-insights-from-glassdoor-job-postings-7334e1b82eeb). 
 
 ### Project Motivation
 The motivation for this project is to find a dataset, come up with business questions, and use the dataset to answer these questions following the 
